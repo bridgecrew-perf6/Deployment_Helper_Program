@@ -1,7 +1,5 @@
 # Deployment_Helper_Program
 This repository contains the source code and the runnable exe file for the Deployment Helper program
-# Deployment_Helper_EXE
-This repository contains the EXE and the source code for the Deployment Helper program
 
                  YOU CAN RUN THE PROGRAM WITH THE deployment_helper.exe in ---> dist folder
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -65,7 +63,7 @@ WWW:
 
         "/branch-locator/",
         "/help-centre/",
-        "/kiosk-application-centre/"
+        "/kiosk-application-centre/" (DOESN'T WORK FOR SOME UNKNOWN REASON)
         
      
 BOIUK:
