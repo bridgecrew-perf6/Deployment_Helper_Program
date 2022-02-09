@@ -64,7 +64,7 @@ WWW:
 
         "/branch-locator/",
         "/help-centre/",
-        "/kiosk-application-centre/" (DOESN'T WORK FOR SOME UNKNOWN REASON)
+        "/kiosk-application-centre/" (ONLY WORKS WHEN YOU ARE ON VPN)
         
      
 BOIUK:
