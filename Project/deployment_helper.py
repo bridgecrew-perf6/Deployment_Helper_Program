@@ -12,6 +12,7 @@ from tkinter import *
 
 chrome_path = "C:/Users/daved/Documents/repos/Deployment_Helper/Project/pics/chrome.jpg"
 
+
 # OPEN PPG
 def openPPG():
     ppg_window = tk.Toplevel()
@@ -26,10 +27,7 @@ def openPPG():
     URLS = (
         "/borrow/mortgages/",
         "/plan/pensions/",
-        "/premier/",
-        "/privatebanking/welcome-to-private/",
         "/borrow/mortgages/calculators/mortgage-calculator/",
-        "/bank/international-payments/foreign-exchange-currency-converter/",
         "/investments-calculator-form/",
         "/investments-goal-saver-calculator/",
         "/investments-regular-saver-calculator/",
@@ -98,9 +96,9 @@ def openBB():
 
     URLS = (
         "/business-supports/sectors/",
-        "/credit/business-loans/business-loan/features-benefits-2/",
+        "/credit/business-loans/business-loan/features-and-benefits/",
         "/financial-wellbeing/",
-       "/support-centre/business-banking/"
+        "/support-centre/business-banking/"
     )
     
     def openFirefox():
@@ -225,11 +223,6 @@ def openBOIUK():
         "/mortgages/existing-customer/",
         "/daily-foreign-exchange-rates/",
         "/mortgages/existing-customer/calculators/",
-        "/mortgages/existing-customer/calculators/convert-to-repayment/",
-        "/mortgages/existing-customer/calculators/rate-change/",
-        "/mortgages/existing-customer/calculators/change-term/",
-        "/mortgages/existing-customer/calculators/borrowing-more/",
-        "/mortgages/existing-customer/calculators/loan-to-value/",
         "/mortgages/existing-customer/calculators/overpayment/",
         "/personal/financial-wellbeing/",
         "/personal/what-is-youth-financial-wellbeing/",
